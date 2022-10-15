@@ -26,3 +26,8 @@ pico-player
 tankman-player
 ABM
 ABM-run
+alice
+alice-alt
+alice-mad
+alice-mad2
+alice-run
