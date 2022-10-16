@@ -31,3 +31,8 @@ alice-alt
 alice-mad
 alice-mad2
 alice-run
+black
+dee
+dum
+end
+lancelucy
